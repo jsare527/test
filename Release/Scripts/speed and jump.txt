@@ -1,0 +1,3 @@
+local player      = game:GetService("Players").LocalPlayer.Character.Humanoid
+player.JumpPower  = 100;
+player.WalkSpeed  = 20;
